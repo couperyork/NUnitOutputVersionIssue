@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\git\NUnitOutputVersionIssue\NUnitOutputVersionIssue\bin\Debug\NUnitOutputVersionIssue.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2024-02-20" time="11:27:38">
+  <environment nunit-version="3.14.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\git\NUnitOutputVersionIssue" machine-name="DEV" user="couper" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\git\NUnitOutputVersionIssue\NUnitOutputVersionIssue\bin\Debug\NUnitOutputVersionIssue.dll" executed="True" result="Success" success="True" time="0.219" asserts="1">
+    <properties>
+      <property name="_PID" value="3532" />
+      <property name="_APPDOMAIN" value="domain-fb246d7e-NUnitOutputVersionIssue.dll" />
+    </properties>
+    <results>
+      <test-suite type="TestSuite" name="NUnitOutputVersionIssue" executed="True" result="Success" success="True" time="0.191" asserts="1">
+        <results>
+          <test-suite type="TestFixture" name="Tests" executed="True" result="Success" success="True" time="0.186" asserts="1">
+            <results>
+              <test-case name="NUnitOutputVersionIssue.Tests.Test1" executed="True" result="Success" success="True" time="0.166" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+  <test-suite type="Assembly" name="D:\git\NUnitOutputVersionIssue\NUnitOutputVersionIssueB\bin\Debug\NUnitOutputVersionIssueB.dll" executed="True" result="Success" success="True" time="0.213" asserts="1">
+    <properties>
+      <property name="_PID" value="8740" />
+      <property name="_APPDOMAIN" value="domain-8995f69c-NUnitOutputVersionIssueB.dll" />
+    </properties>
+    <results>
+      <test-suite type="TestSuite" name="NUnitOutputVersionIssueB" executed="True" result="Success" success="True" time="0.187" asserts="1">
+        <results>
+          <test-suite type="TestFixture" name="TestsB" executed="True" result="Success" success="True" time="0.183" asserts="1">
+            <results>
+              <test-case name="NUnitOutputVersionIssueB.TestsB.TestB" executed="True" result="Success" success="True" time="0.164" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
